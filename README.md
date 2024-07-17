@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h2 align="center">A passionate Software Engineer</h2>
 
-<p align="left">Highly skilled and experienced Software Engineer specializing in Java, Spring Boot, JavaScript, React, and Next.js. Proficient in designing, developing, and maintaining robust and scalable applications, with a deep understanding of both front-end and back-end technologies. Demonstrated expertise in working with Oracle SQL Database and PostgreSQL, ensuring efficient data management and retrieval. Strong interpersonal and analytical skills, dedicated to delivering high-performance software solutions. Passionate about continuous learning and staying current with emerging technologies and industry best practices.</p>
+<p align="left">A highly skilled and experienced Software Engineer with specialization in Java, Spring Boot, JavaScript, React, and Next.js. I am proficient in designing, developing, and maintaining robust and scalable applications, with a deep understanding of both front-end and back-end technologies. I demonstrate expertise in working with Oracle SQL Database and PostgreSQL, ensuring efficient data management and retrieval. I have a strong interpersonal and analytical skills, dedicated to delivering high-performance software solutions. I am passionate about continuous learning and staying current with emerging technologies and industry best practices.</p>
 
 <br/>
 <br/>
